@@ -2,8 +2,8 @@
  Practice Project - Codeacdemy
 # Adopt a Pet
 
-This is a Practice Project for Codecademy Front End Developer Course. 
-A website for the fictional Adminstration Company Adhoc.
+This is a Practice Project for Codecademy's Front End Web Development Course. 
+A Landing Page for the fictional Adminstration Company Adhoc.
 
 ## Table of contents
 
