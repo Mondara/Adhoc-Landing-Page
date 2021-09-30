@@ -26,7 +26,7 @@ A Landing Page for the fictional Adminstration Company Adhoc.
 
 ### Links
 
-- Live Site URL: (https://covid19-tracker-67.netlify.app/)
+- Live Site URL: (https://adhoc-administration-landing-page.netlify.app/)
 
 ## My process
 
